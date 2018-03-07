@@ -1,0 +1,3 @@
+# Othello 
+
+Written in Haskell.
